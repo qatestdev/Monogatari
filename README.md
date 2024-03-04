@@ -8,12 +8,7 @@ Demo: https://monogatari.io/demo/
 * List item
    * Nested list item indented by 3 spaces
 
-* Another list item
-   * Another nested list item indented by 3 spaces
-
-$ ls
-$ cat foo
-$ less bar
+# This is a heading.
 
 ## Features
 - Responsive out of the box
