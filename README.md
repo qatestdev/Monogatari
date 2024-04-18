@@ -70,3 +70,4 @@ Contributions are always welcome! If you have contributed to this project, or in
 
 ## License
 Monogatari is a Free Open Source Software project released under the [MIT License](https://raw.githubusercontent.com/Monogatari/Monogatari/master/LICENSE).
+
