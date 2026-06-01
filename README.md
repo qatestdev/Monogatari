@@ -5,6 +5,16 @@ Website: https://monogatari.io/
 
 Demo: https://monogatari.io/demo/
 
+* List item
+   * Nested list item indented by 3 spaces
+
+* Another list item
+   * Another nested list item indented by 3 spaces
+
+$ ls
+$ cat foo
+$ less bar
+
 ## Features
 - Responsive out of the box
 - Plays nice with Electron for Desktop apps and Cordova for mobile apps
