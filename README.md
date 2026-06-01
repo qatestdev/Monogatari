@@ -16,6 +16,7 @@ $ cat foo
 $ less bar
 
 ## Features
+ -  wrong intending  
 - Responsive out of the box
 - Plays nice with Electron for Desktop apps and Cordova for mobile apps
 - Simple Syntax
