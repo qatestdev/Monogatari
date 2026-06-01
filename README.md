@@ -1,4 +1,4 @@
-# Monogatari test test test test
+# Monogatari test test test test test
 Built to bring Visual Novels to the modern web and take them to the next level, making it easy for anyone to create and distribute Visual Novels in a simple way so that anyone can enjoy them on pretty much anywhere, create games with features that no one has ever imagined... it is time for Visual Novels to Evolve.
 
 Website: https://monogatari.io/
@@ -16,6 +16,7 @@ $ cat foo
 $ less bar
 
 ## Features
+ -  wrong intending  
 - Responsive out of the box
 - Plays nice with Electron for Desktop apps and Cordova for mobile apps
 - Simple Syntax
