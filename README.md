@@ -1,4 +1,7 @@
 # Monogatari test test test test
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/80a81d542779418ea48989d582049da0)](https://app.codacy.com/gh/qatestdev/Monogatari?utm_source=github.com&utm_medium=referral&utm_content=qatestdev/Monogatari&utm_campaign=Badge_Grade)
+
 Built to bring Visual Novels to the modern web and take them to the next level, making it easy for anyone to create and distribute Visual Novels in a simple way so that anyone can enjoy them on pretty much anywhere, create games with features that no one has ever imagined... it is time for Visual Novels to Evolve.
 
 Website: https://monogatari.io/
